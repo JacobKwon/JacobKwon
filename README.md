@@ -3,7 +3,7 @@
 현재는 AI/ML으로 나아가며 계속 도전해나가며 성장하고 있습니다.<br>
 도전, 긍정, 꾸준함 세가지가 저의 성장 동력입니다.😄
 
-<hr>
+<br><br>
 
 ## ⌨ STACKS
 <br>
@@ -22,7 +22,7 @@
   <img src="https://img.shields.io/badge/CSS3-0077C3?style=flat&logo=CSS3&logoColor=white">
   <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat&logo=Javascript&logoColor=black">
 </div>
-<br>
+<br><br>
 
 ## 😳 PROJECTS
 > * 2018 빅데이터, 인공지능 기반 세무지식 서비스
@@ -32,6 +32,7 @@
 > * 2022 Car, Tire Detect using YoloV5
 > * 2022 유방암 병리 슬라이드 영상과 임상 항목을 통한 유방암의 임파선 전이 여부 이진 분류 예측
 
+<br><br>
 
 ##### Last update : @2023/04/06
 
