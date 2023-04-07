@@ -15,6 +15,7 @@
   
   <img src="https://img.shields.io/badge/JAVA-orange?style=flat&logo=JAVA&logoColor=white">
   <img src="https://img.shields.io/badge/AndroidStudio-3BD481?style=flat&logo=AndroidStudio&logoColor=white">
+  <img src="https://img.shields.io/badge/SQL-61380B?style=flat&logo=sql&logoColor=white">
   <img src="https://img.shields.io/badge/Mysql-4479A1?style=flat&logo=Mysql&logoColor=white"><br>
 
   <img src="https://img.shields.io/badge/HTML5-E96228?style=flat&logo=HTML5&logoColor=white">
