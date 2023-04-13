@@ -9,19 +9,24 @@
 <br>
 <div style="display:flex; flex-direction:row;">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white">
-  <img src="https://img.shields.io/badge/OpenCV-00A400?style=flat&amp;logo=OpenCV&amp;logoColor=white">
   <img src="https://img.shields.io/badge/Tensorflow-F78000?style=flat&amp;logo=Tensorflow&amp;logoColor=white">
-  <img src="https://img.shields.io/badge/Pytorch-E74A2B?style=flat&amp;logo=Pytorch&amp;logoColor=white"><br>
-  
-  <img src="https://img.shields.io/badge/JAVA-orange?style=flat&logo=JAVA&logoColor=white">
-  <img src="https://img.shields.io/badge/AndroidStudio-3BD481?style=flat&logo=AndroidStudio&logoColor=white">
-  <img src="https://img.shields.io/badge/SQL-61380B?style=flat&logo=sql&logoColor=white">
-  <img src="https://img.shields.io/badge/Mysql-4479A1?style=flat&logo=Mysql&logoColor=white"><br>
-
+  <img src="https://img.shields.io/badge/Pytorch-E74A2B?style=flat&amp;logo=Pytorch&amp;logoColor=white">
+  <img src="https://img.shields.io/badge/OpenCV-00A400?style=flat&amp;logo=OpenCV&amp;logoColor=white">
+  <img src="https://img.shields.io/badge/Pandas-120751?style=flat&amp;logo=Pandas&amp;logoColor=white">
+  <br>
   <img src="https://img.shields.io/badge/HTML5-E96228?style=flat&logo=HTML5&logoColor=white">
   <img src="https://img.shields.io/badge/PHP-7377AD?style=flat&amp;logo=PHP&amp;logoColor=white">
   <img src="https://img.shields.io/badge/CSS3-0077C3?style=flat&logo=CSS3&logoColor=white">
   <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat&logo=Javascript&logoColor=black">
+  <br>
+  <img src="https://img.shields.io/badge/JAVA-orange?style=flat&logo=JAVA&logoColor=white">
+  <img src="https://img.shields.io/badge/AndroidStudio-3BD481?style=flat&logo=AndroidStudio&logoColor=white">
+  <br>
+  <img src="https://img.shields.io/badge/Centos7-AD679B?style=flat&logo=Centos&logoColor=white">
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=Ubuntu&logoColor=white">
+  <br>
+  <img src="https://img.shields.io/badge/SQL-61380B?style=flat&logo=sql&logoColor=white">
+  <img src="https://img.shields.io/badge/Mysql-4479A1?style=flat&logo=Mysql&logoColor=white">
 </div>
 <br><br>
 
@@ -35,7 +40,7 @@
 
 <br><br>
 
-##### Last update : @2023/04/08
+##### Last update : @2023/04/13
 
 <!--
 **JacobKwon/JacobKwon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
