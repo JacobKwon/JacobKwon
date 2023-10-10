@@ -1,3 +1,5 @@
+<br><br>
+
 ### 👋개발자에서 AI/ML 엔지니어로 나아가고 있는 엔지니어 권진욱 입니다.<br>
 스타트업을 하며 Naitive Android App를 개발하였고 취직 후 AI/ML 모델과 PHP Web을 개발하다<br>
 현재는 AI/ML에 집중해 나아가고 있으며, 계속해서 도전하고 노력하며 성장중입니다.<br>
@@ -37,10 +39,18 @@
 > * 2021 빅데이터 분석기술 및 머신러닝을 활용한 주택임대 통합서비스 플랫폼 구축
 > * 2022 Car, Tire Detect using YoloV5
 > * 2022 유방암 병리 슬라이드 영상과 임상 항목을 통한 유방암의 임파선 전이 여부 이진 분류 예측
+> * 2023 Antec Service<sup id="p1">[1](#ps1)</sup>
+> * 2023 이미지 텍스트 추출 모델 (Image to text, OCR)
 
 <br><br>
 
-##### Last update : @2023/04/13
+##### Last update : @2023/10/10
+
+
+---
+
+<b id="ps1">1</b> 법인세 신고 웹 서비스 [←](#p1)
+
 
 <!--
 **JacobKwon/JacobKwon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
