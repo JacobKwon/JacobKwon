@@ -4,7 +4,6 @@
 <br/>
 학부생 무렵부터 스타트업을 운영하며 Naitive Android(Java)로 개발을 시작하였습니다.<br/>
 취직 후 AI/ML 개발과 Laravel/PHP Web을 개발하고 있습니다.<br/>
-
 <br/>
 현재는 세무/회계 도메인에서 열심히 활동중입니다.<br/>
 Web과 AI를 주로 만들고 있으며, 사용자들이 가장 편리한 것이 무엇일지 고민하고 있습니다.<br/>
@@ -14,6 +13,13 @@ Web과 AI를 주로 만들고 있으며, 사용자들이 가장 편리한 것이
 
 <br/><br/>
 
+## ✨ Current Interests
+<br/>
+<div style="display:flex; flex-direction:row;">
+현재는 LNN에 호기심을 느껴 DeepDive 중입니다.
+
+
+<br/><br/>
 ## ⌨ STACKS
 <br/>
 <div style="display:flex; flex-direction:row;">
@@ -62,12 +68,12 @@ Web과 AI를 주로 만들고 있으며, 사용자들이 가장 편리한 것이
 > * 2024 KANTE - 기준시가/시가표준액 산출 웹 서비스 개발 (Toy, Ver.1)
 > * 2024 종합부동산세 환급 서비스 개발
 > * 2024-2025 ~~TTS Project~~
-> * 2025 AntecValue - 기준시가/시가표준액 산출 웹 서비스 개발 (정규, Kante Ver.2)
-> * 2026 ~~Project 진행중~~
+> * 2025 AntecValue - 기준시가/시가표준액 산출 웹 서비스 개발 (정규, KANTE Ver.2)
+> * 2026 AntecPillar2 개발
 
 <br/><br/>
 
-##### Last update : @2026/04/03
+##### Last update : @2026/06/01
 
 
 ---
