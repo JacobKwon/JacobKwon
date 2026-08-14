@@ -16,7 +16,7 @@ Web과 AI를 주로 만들고 있으며, 사용자들이 가장 편리한 것이
 ## ✨ Current Interests
 <br/>
 <div style="display:flex; flex-direction:row;">
-현재는 LNN에 호기심을 느껴 DeepDive 중입니다.
+현재는 OpenClaw + harness를 DeepDive 중입니다.
 
 
 <br/><br/>
@@ -70,10 +70,10 @@ Web과 AI를 주로 만들고 있으며, 사용자들이 가장 편리한 것이
 > * 2024-2025 ~~TTS Project~~
 > * 2025 AntecValue - 기준시가/시가표준액 산출 웹 서비스 개발 (정규, KANTE Ver.2)
 > * 2026 AntecPillar2 개발
-
+> * 2026 AntecRefund 개발 (진행중)
 <br/><br/>
 
-##### Last update : @2026/06/01
+##### Last update : @2026/08/14
 
 
 ---
